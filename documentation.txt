@@ -1,0 +1,46 @@
+# Video 1
+While extracting the values from yahoo API: Using the web Data Reader.
+look at the available data(dates).
+**read about open, close, values in the stocks
+
+#Video 2
+Write a Data to CSV
+Read from CSV
+
+#Video 3
+Moving Average
+
+
+#Video 4
+Candle Sticks
+Technical difficulty
+
+
+#Video5
+What is a parser in BeautifulSoup
+what is s&p500
+beautiful soup basic program
+small intro into request
+
+
+#Video 6
+Information about the OS Directory python library
+Yahoo finance fix_yahoo_finance
+time.sleep: yahoo api trottle
+list comprehension for data Processing
+
+
+#Video 7
+empty DataFrame creation
+df.drop
+
+
+#Video
+
+the current visulation is only for demo purpose
+correlation
+pcolor to build a 2d heat map
+Redo this video
+
+
+#Videooo fdkg
